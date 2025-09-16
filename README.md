@@ -1,4 +1,4 @@
-<h1  align="center">Hi 👋, I'm Laxminarayan</h1>
+<h1>Hi 👋, I'm Laxminarayan</h1>
 <p>A passionate Frontend Developer & Full Stack Developer</p>
 <h2>🚀 Languages and Tools I Use</h2>
 
@@ -24,6 +24,9 @@
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="terraform" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/ansible/ansible-icon.svg" alt="ansible" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/sonarqube/sonarqube-original-wordmark.svg"width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/argoprojio/argoprojio-ar21.svg"width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-ar21.svg"width="40" height="40"/>
 </p>
 
 ### **Databases & Monitoring**
@@ -33,7 +36,6 @@
   <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
 </p>
 
-<h2>✒️ Recent Posts</h2>
 <ul>
 <li><a target="_blank" href="https://laxminarayandev.netlify.app">My Portfolio</a></li>
 <h2>⚡️ Where to find me</h2>
